@@ -16,7 +16,7 @@ namespace LuasSegitiga
 
             for (var i = 1; i <= totalSegitiga; i++)
             {
-                Console.Write("\tMasukkan alas segitiga ke-{0} (cm) : ", i);
+                Console.Write("\n\tMasukkan alas segitiga ke-{0} (cm) : ", i);
                 alas = double.Parse(Console.ReadLine());
         
                 Console.Write("\tMasukkan tinggi segitiga ke-{0} (cm) : ", i);

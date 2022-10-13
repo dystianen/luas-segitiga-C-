@@ -1,0 +1,7 @@
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\bin\Debug\LuasSegitiga.exe
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\bin\Debug\LuasSegitiga.pdb
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\obj\Debug\LuasSegitiga.csproj.AssemblyReference.cache
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\obj\Debug\LuasSegitiga.csproj.SuggestedBindingRedirects.cache
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\obj\Debug\LuasSegitiga.csproj.CoreCompileInputs.cache
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\obj\Debug\LuasSegitiga.exe
+C:\Users\disti\RiderProjects\LuasSegitiga\LuasSegitiga\obj\Debug\LuasSegitiga.pdb
